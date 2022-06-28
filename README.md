@@ -10,13 +10,15 @@
 </div>
 
 
-
 ### Built With
 
 * HTML
 * CSS
 * JavaScript
 * Netlify
+
+### Usage
+To access the website click the following link: https://mrabee.com/
 
 <!-- Acknowledgements -->
 ## Acknowledgements
