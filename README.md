@@ -6,17 +6,7 @@
 <h3 align="center">NBA MVP Predictor</h3>
 
   <p align="center">
-    A machine learning model using RandomForest Regression that predicts NBA MVP's using player data.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+    A portfolio website built using HTML, CSS, and JavaScript to showcase personal projects, and work experience
 </div>
 
 
