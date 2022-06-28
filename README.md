@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="src/assets/media-thumbnail.jpeg" alt="thumbnail" width="280" height="280">
-  </a>
+    <img src="src/assets/media-thumbnail.jpeg" alt="thumbnail">
 
 <h3 align="center">NBA MVP Predictor</h3>
 
