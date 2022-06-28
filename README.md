@@ -6,16 +6,17 @@
 <h3 align="center">NBA MVP Predictor</h3>
 
   <p align="center">
-    A portfolio website built using HTML, CSS, and JavaScript to showcase personal projects, and work experience
+    A portfolio website built using HTML, CSS, JavaScript, and hosted on Netlify to showcase personal projects, and work experience
 </div>
 
 
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [JavaScript]
+* HTML
+* CSS
+* JavaScript
+* Netlify
 
 <!-- Acknowledgements -->
 ## Acknowledgements
