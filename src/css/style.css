@@ -355,9 +355,6 @@ body {
   align-items: center;
   overflow: hidden; /* to see the curve on borders */
   padding: 0;
-  animation: bounce 1.5s infinite alternate;
-  -webkit-perspective: 1000;
-  -webkit-backface-visibility: hidden;
 }
 
 
